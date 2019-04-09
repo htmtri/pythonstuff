@@ -80,8 +80,6 @@ for items in poke_l:
 #print(avg_sum, count1,count2)  
 #print(max(avg_sum.items(),key=operator.itemgetter(1))[0])    
 
-for items in pokemon_l:
-    
 print(mega_ID)        
 Normal = {}
 Mega = {}
